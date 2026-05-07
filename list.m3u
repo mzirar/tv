@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="*** SERVER DMTN-IPTV ***" tvg-logo="" group-title="TUNISIA TV",*** SERVER DMTN-IPTV ***
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/11499
+#EXTINF:-1 tvg-ID="" tvg-name="FI: TV 7 News Heaven" tvg-logo="" group-title="Finland",FI: TV 7 News Heaven
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/55329
+#EXTINF:-1 tvg-ID="" tvg-name="FI: TV7 Plus!" tvg-logo="" group-title="Finland",FI: TV7 Plus!
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/31477
+#EXTINF:-1 tvg-ID="" tvg-name="FI: Jim" tvg-logo="" group-title="Finland",FI: Jim
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/26388
+#EXTINF:-1 tvg-ID="" tvg-name="FI: LIV" tvg-logo="" group-title="Finland",FI: LIV
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/26387
+#EXTINF:-1 tvg-ID="" tvg-name="FI: MTV3" tvg-logo="" group-title="Finland",FI: MTV3
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/26377
+#EXTINF:-1 tvg-ID="" tvg-name="FI: SUB" tvg-logo="" group-title="Finland",FI: SUB
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/26386
+#EXTINF:-1 tvg-ID="" tvg-name="FI: TV7" tvg-logo="" group-title="Finland",FI: TV7
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/26385
+#EXTINF:-1 tvg-ID="" tvg-name="SE: Viasat Film Premiere" tvg-logo="" group-title="Sweden",SE: Viasat Film Premiere
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/103646
+#EXTINF:-1 tvg-ID="" tvg-name="SE: Viasat Film Premiere HD" tvg-logo="" group-title="Sweden",SE: Viasat Film Premiere HD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/103645
+#EXTINF:-1 tvg-ID="svt2.se" tvg-name="SE: SVT2" tvg-logo="https://i.imgur.com/VEVzNtF.png" group-title="Sweden",SE: SVT2
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/34553
+#EXTINF:-1 tvg-ID="" tvg-name="NO: Animal Planet FHD [Multi-Sub]" tvg-logo="https://i.imgur.com/br7Ehf7.png" group-title="Norway",NO: Animal Planet FHD [Multi-Sub]
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/24259
+#EXTINF:-1 tvg-ID="" tvg-name="NO: Viasat Sport HD Norge" tvg-logo="" group-title="Norway",NO: Viasat Sport HD Norge
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/24257
+#EXTINF:-1 tvg-ID="" tvg-name="NO: Viasat Sport East NO" tvg-logo="" group-title="Norway",NO: Viasat Sport East NO
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/34370
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="beIN SPORTS NEWS FHD" tvg-logo="https://i.imgur.com/DwqXfvt.png" group-title="beIN VIP",beIN SPORTS NEWS FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/104712
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="beIN SPORTS GLOBAL HD (1080i)" tvg-logo="https://i.imgur.com/xDz01a9.png" group-title="beIN VIP",beIN SPORTS GLOBAL HD (1080i)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78372
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="beIN SPORTS GLOBAL HD*" tvg-logo="https://i.imgur.com/xDz01a9.png" group-title="beIN VIP",beIN SPORTS GLOBAL HD*
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78371
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN SPORTS 1 HD (1080i)" tvg-logo="https://i.imgur.com/b4B4klB.png" group-title="beIN VIP",beIN SPORTS 1 HD (1080i)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78402
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN SPORTS 2 HD (1080i)" tvg-logo="https://i.imgur.com/yysu1er.png" group-title="beIN VIP",beIN SPORTS 2 HD (1080i)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78399
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS 3 HD (1080i)" tvg-logo="https://i.imgur.com/5Z7COZj.png" group-title="beIN VIP",beIN SPORTS 3 HD (1080i)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78396
+#EXTINF:-1 tvg-ID="beIN Sports 4 HD ARB" tvg-name="beIN SPORTS 4 HD (1080i)" tvg-logo="https://i.imgur.com/7sJLrNt.png" group-title="beIN VIP",beIN SPORTS 4 HD (1080i)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78393
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN SPORTS 5 HD (1080i)" tvg-logo="https://i.imgur.com/YOHZ5MX.png" group-title="beIN VIP",beIN SPORTS 5 HD (1080i)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78390
+#EXTINF:-1 tvg-ID="beIN Sports 6 HD ARB" tvg-name="beIN SPORTS 6 HD (1080i)" tvg-logo="https://i.imgur.com/TCrbLbs.png" group-title="beIN VIP",beIN SPORTS 6 HD (1080i)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78387
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN SPORTS 7 HD (1080i)" tvg-logo="https://i.imgur.com/44teBIs.png" group-title="beIN VIP",beIN SPORTS 7 HD (1080i)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78384
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN SPORTS 8 HD (1080i)" tvg-logo="https://i.imgur.com/LbWnIGj.png" group-title="beIN VIP",beIN SPORTS 8 HD (1080i)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78381
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN SPORTS 9 HD (1080i)" tvg-logo="https://i.imgur.com/5HfcFPt.png" group-title="beIN VIP",beIN SPORTS 9 HD (1080i)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78378
+#EXTINF:-1 tvg-ID="beIN Sports 10 ARB" tvg-name="beIN SPORTS 10 HD (1080i)" tvg-logo="https://i.imgur.com/mfmPPWf.png" group-title="beIN VIP",beIN SPORTS 10 HD (1080i)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78375
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN SPORTS 1 HD*" tvg-logo="https://i.imgur.com/qVQ5AGI.png" group-title="beIN VIP",beIN SPORTS 1 HD*
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78401
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN SPORTS 2 HD*" tvg-logo="https://i.imgur.com/yysu1er.png" group-title="beIN VIP",beIN SPORTS 2 HD*
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78398
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS 3 HD*" tvg-logo="https://i.imgur.com/5Z7COZj.png" group-title="beIN VIP",beIN SPORTS 3 HD*
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78395
+#EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="beIN SPORTS 4 HD*" tvg-logo="https://i.imgur.com/7sJLrNt.png" group-title="beIN VIP",beIN SPORTS 4 HD*
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78392
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN SPORTS 5 HD*" tvg-logo="https://i.imgur.com/YOHZ5MX.png" group-title="beIN VIP",beIN SPORTS 5 HD*
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78389
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN SPORTS 6 HD*" tvg-logo="https://i.imgur.com/TCrbLbs.png" group-title="beIN VIP",beIN SPORTS 6 HD*
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78386
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN SPORTS 7 HD*" tvg-logo="https://i.imgur.com/44teBIs.png" group-title="beIN VIP",beIN SPORTS 7 HD*
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78383
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN SPORTS 8 HD*" tvg-logo="https://i.imgur.com/LbWnIGj.png" group-title="beIN VIP",beIN SPORTS 8 HD*
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78380
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN SPORTS 9 HD*" tvg-logo="https://i.imgur.com/5HfcFPt.png" group-title="beIN VIP",beIN SPORTS 9 HD*
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78377
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 10 HD*" tvg-logo="https://i.imgur.com/mfmPPWf.png" group-title="beIN VIP",beIN SPORTS 10 HD*
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78374
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://i.imgur.com/qVQ5AGI.png" group-title="beIN VIP",beIN SPORTS 1 SD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78400
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN SPORTS 2 SD" tvg-logo="https://i.imgur.com/JWvE1rb.png" group-title="beIN VIP",beIN SPORTS 2 SD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78397
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS 3 SD" tvg-logo="https://i.imgur.com/5Z7COZj.png" group-title="beIN VIP",beIN SPORTS 3 SD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78394
+#EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="beIN SPORTS 4 SD" tvg-logo="https://i.imgur.com/7sJLrNt.png" group-title="beIN VIP",beIN SPORTS 4 SD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78391
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN SPORTS 5 SD" tvg-logo="https://i.imgur.com/YOHZ5MX.png" group-title="beIN VIP",beIN SPORTS 5 SD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78388
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN SPORTS 6 SD" tvg-logo="https://i.imgur.com/TCrbLbs.png" group-title="beIN VIP",beIN SPORTS 6 SD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78385
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN SPORTS 7 SD" tvg-logo="https://i.imgur.com/44teBIs.png" group-title="beIN VIP",beIN SPORTS 7 SD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78382
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN SPORTS 8 SD" tvg-logo="https://i.imgur.com/LbWnIGj.png" group-title="beIN VIP",beIN SPORTS 8 SD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78379
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN SPORTS 9 SD" tvg-logo="https://i.imgur.com/5HfcFPt.png" group-title="beIN VIP",beIN SPORTS 9 SD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78376
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 10 SD" tvg-logo="https://i.imgur.com/mfmPPWf.png" group-title="beIN VIP",beIN SPORTS 10 SD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/78373
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN SPORTS FHD 1 (hevc)" tvg-logo="https://i.imgur.com/GVhyD9m.png" group-title="beIN VIP",beIN SPORTS FHD 1 (hevc)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/47000
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN SPORTS FHD 2 (hevc)" tvg-logo="https://i.imgur.com/VXAJtUp.png" group-title="beIN VIP",beIN SPORTS FHD 2 (hevc)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/46999
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS FHD 3 (hevc)" tvg-logo="https://i.imgur.com/hU5q8nv.png" group-title="beIN VIP",beIN SPORTS FHD 3 (hevc)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/46998
+#EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="beIN SPORTS FHD 4 (hevc)" tvg-logo="https://i.imgur.com/uVq8hC1.png" group-title="beIN VIP",beIN SPORTS FHD 4 (hevc)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/46997
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN SPORTS FHD 5 (hevc)" tvg-logo="https://i.imgur.com/TiZYYrJ.png" group-title="beIN VIP",beIN SPORTS FHD 5 (hevc)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/46996
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN SPORTS FHD 6 (hevc)" tvg-logo="https://i.imgur.com/SiFRPmW.png" group-title="beIN VIP",beIN SPORTS FHD 6 (hevc)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/46995
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN SPORTS FHD 7 (hevc)" tvg-logo="https://i.imgur.com/APFFfYV.png" group-title="beIN VIP",beIN SPORTS FHD 7 (hevc)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/46994
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN SPORTS FHD 8 (hevc)" tvg-logo="https://i.imgur.com/5tP5u30.png" group-title="beIN VIP",beIN SPORTS FHD 8 (hevc)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/46993
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN SPORTS FHD 9 (hevc)" tvg-logo="https://i.imgur.com/bKwVaFQ.png" group-title="beIN VIP",beIN SPORTS FHD 9 (hevc)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/46992
+#EXTINF:-1 tvg-ID="beIN Sports 10 HD ARB" tvg-name="beIN SPORTS FHD 10 (hevc)" tvg-logo="https://i.imgur.com/nAVo9QT.png" group-title="beIN VIP",beIN SPORTS FHD 10 (hevc)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/46991
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN SPORTS HD 1 (Local HEVC)" tvg-logo="https://i.imgur.com/b4B4klB.png" group-title="beIN VIP",beIN SPORTS HD 1 (Local HEVC)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/65950
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN SPORTS HD 2 (Local HEVC)" tvg-logo="https://i.imgur.com/1itjmFe.png" group-title="beIN VIP",beIN SPORTS HD 2 (Local HEVC)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/65949
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 3 (Local HEVC)" tvg-logo="" group-title="beIN VIP",beIN SPORTS HD 3 (Local HEVC)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/105169
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 4 (Local HEVC)" tvg-logo="" group-title="beIN VIP",beIN SPORTS HD 4 (Local HEVC)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/105168
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN SPORTS HD 5 (Local HEVC)" tvg-logo="https://i.imgur.com/YOHZ5MX.png" group-title="beIN VIP",beIN SPORTS HD 5 (Local HEVC)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/105385
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 1 (Local)" tvg-logo="" group-title="beIN VIP",beIN SPORTS HD 1 (Local)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/105170
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 2 (Local)" tvg-logo="" group-title="beIN VIP",beIN SPORTS HD 2 (Local)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/105171
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS HD 3 (Local)" tvg-logo="https://i.imgur.com/5Z7COZj.png" group-title="beIN VIP",beIN SPORTS HD 3 (Local)
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/66256
+#EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="beIN SPORTS HD 4" tvg-logo="https://i.imgur.com/7sJLrNt.png" group-title="beIN VIP",beIN SPORTS HD 4
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/66255
+#EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="beIN SPORTS HD 5" tvg-logo="https://i.imgur.com/YOHZ5MX.png" group-title="beIN VIP",beIN SPORTS HD 5
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/66254
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN SPORTS HD 6" tvg-logo="https://i.imgur.com/TCrbLbs.png" group-title="beIN VIP",beIN SPORTS HD 6
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/66253
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN SPORTS HD 7" tvg-logo="https://i.imgur.com/44teBIs.png" group-title="beIN VIP",beIN SPORTS HD 7
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/66252
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN SPORTS HD 8" tvg-logo="https://i.imgur.com/LbWnIGj.png" group-title="beIN VIP",beIN SPORTS HD 8
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/66251
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN SPORTS HD 9" tvg-logo="https://i.imgur.com/5HfcFPt.png" group-title="beIN VIP",beIN SPORTS HD 9
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/66250
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Kabel eins CLASSICS HD" tvg-logo="" group-title="GERMANY CHANNEL",DE: Kabel eins CLASSICS HD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/29535
+#EXTINF:-1 tvg-ID="KabelEinsDoku.de" tvg-name="DE: Kabel eins Doku" tvg-logo="" group-title="GERMANY CHANNEL",DE: Kabel eins Doku
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/29534
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Kinowelt TV HD" tvg-logo="" group-title="GERMANY CHANNEL",DE: Kinowelt TV HD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/5394
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Kinowelt TV" tvg-logo="" group-title="GERMANY CHANNEL",DE: Kinowelt TV
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/41645
+#EXTINF:-1 tvg-ID="planet.de" tvg-name="DE: Planet HD" tvg-logo="" group-title="GERMANY CHANNEL",DE: Planet HD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/65670
+#EXTINF:-1 tvg-ID="Sat1Gold.de" tvg-name="DE: SAT 1 GOLD HD" tvg-logo="" group-title="GERMANY CHANNEL",DE: SAT 1 GOLD HD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/5396
+#EXTINF:-1 tvg-ID="HR.de" tvg-name="DE: HR FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hr_fernsehen.jpg" group-title="GERMANY CHANNEL",DE: HR FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/30312
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MDR HD" tvg-logo="" group-title="GERMANY CHANNEL",DE: MDR HD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/30303
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SWR BW FHD" tvg-logo="" group-title="GERMANY CHANNEL",DE: SWR BW FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/30342
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Cinema 27 PPV FHD" tvg-logo="" group-title="VOD Latino",Latino: Cinema 27 PPV FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/44407
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Cinema 28 PPV FHD" tvg-logo="" group-title="VOD Latino",Latino: Cinema 28 PPV FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/44406
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Cinema 29 PPV FHD" tvg-logo="" group-title="VOD Latino",Latino: Cinema 29 PPV FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/44405
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Cinema 30 PPV FHD" tvg-logo="" group-title="VOD Latino",Latino: Cinema 30 PPV FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/44404
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Cinema 31 PPV FHD" tvg-logo="" group-title="VOD Latino",Latino: Cinema 31 PPV FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/44403
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Cinema 32 PPV FHD" tvg-logo="" group-title="VOD Latino",Latino: Cinema 32 PPV FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/44402
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Cinema 33 PPV FHD" tvg-logo="" group-title="VOD Latino",Latino: Cinema 33 PPV FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/44401
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Cinema 34 PPV FHD" tvg-logo="" group-title="VOD Latino",Latino: Cinema 34 PPV FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/44400
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Cinema 35 PPV FHD" tvg-logo="" group-title="VOD Latino",Latino: Cinema 35 PPV FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/44399
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Cinema 36 PPV FHD" tvg-logo="" group-title="VOD Latino",Latino: Cinema 36 PPV FHD
+http://testurl-tv.net:8080/pas109QUd/ZMMo0YUDzM/44398
+#EXTINF:-1 tvg-ID="" tvg-name="VOD TN: Les Frontières Du Ciel" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/3/3f/20170615171131%21%D8%B4%D8%A8%D8%A7%D8%A8%D9%83_%D8%A7%D9%84%D8%AC%D9%86%D8%A9n.jpg" group-title="VOD TN",VOD TN: Les Frontières Du Ciel
+http://testurl-tv.net:8080/movie/pas109QUd/ZMMo0YUDzM/54103.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD TN: Hedi" tvg-logo="http://dmtn-tv.com:8080/images/lltkKQaT6nsGRbHmZ51hnw5ltse_small.jpg" group-title="VOD TN",VOD TN: Hedi
+http://testurl-tv.net:8080/movie/pas109QUd/ZMMo0YUDzM/99972.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="VOD TN: Challat of Tunis" tvg-logo="http://dmtn-tv.com:8080/images/9CyTNW9meAHHOC8Za4R85g6mxmY_small.jpg" group-title="VOD TN",VOD TN: Challat of Tunis
+http://testurl-tv.net:8080/movie/pas109QUd/ZMMo0YUDzM/81393.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD TN: Aala Kaf Ifrit" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQxZTY5OWEtYWFhYS00M2ZjLWE2ZDMtZGNkYzY2OWU1MTZkXkEyXkFqcGdeQXVyMjQ0NzcxNjM@._V1_SY1000_CR0,0,687,1000_AL_.jpg" group-title="VOD TN",VOD TN: Aala Kaf Ifrit
+http://testurl-tv.net:8080/movie/pas109QUd/ZMMo0YUDzM/63961.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD TN: Libre" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQxZTY5OWEtYWFhYS00M2ZjLWE2ZDMtZGNkYzY2OWU1MTZkXkEyXkFqcGdeQXVyMjQ0NzcxNjM@._V1_SY1000_CR0,0,687,1000_AL_.jpg" group-title="VOD TN",VOD TN: Libre
+http://testurl-tv.net:8080/movie/pas109QUd/ZMMo0YUDzM/54104.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="VOD TN: À Peine J'ouvre Les Yeux - على حلة عيني" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQxZTY5OWEtYWFhYS00M2ZjLWE2ZDMtZGNkYzY2OWU1MTZkXkEyXkFqcGdeQXVyMjQ0NzcxNjM@._V1_SY1000_CR0,0,687,1000_AL_.jpg" group-title="VOD TN",VOD TN: À Peine J'ouvre Les Yeux - على حلة عيني
+http://testurl-tv.net:8080/movie/pas109QUd/ZMMo0YUDzM/54105.mkv
