@@ -27,3 +27,5 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_d
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1 tvg-id="Al Oula",Al Oula (720p)
 https://servilive.com:3126/live/tele2000live.m3u8
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="ARAB",Al Aoula (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
