@@ -30,19 +30,19 @@ https://servilive.com:3126/live/tele2000live.m3u8
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="ARAB",Al Aoula (360p)
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/al_aoula_inter.m3u8
 #EXTINF:-1 group-title="-",2M MAROC HD
-154.197.91.169:8000/play/a0h0/index.m3u8
+https://154.197.91.169:8000/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="-",AD Nat Geo HD
-154.197.91.169:8000/play/a0if/index.m3u8
+https://154.197.91.169:8000/play/a0if/index.m3u8
 #EXTINF:-1 group-title="-",AD Sport 1 HD
-154.197.91.169:8000/play/a0ic/index.m3u8
+https://154.197.91.169:8000/play/a0ic/index.m3u8
 #EXTINF:-1 group-title="-",AD Sport 2 HD
-154.197.91.169:8000/play/a0id/index.m3u8
+https://154.197.91.169:8000/play/a0id/index.m3u8
 #EXTINF:-1 group-title="-",Abu Dhabi TV HD
-154.197.91.169:8000/play/a0i9/index.m3u8
+https://154.197.91.169:8000/play/a0i9/index.m3u8
 #EXTINF:-1 group-title="-",Al Aoula Inter HD
-154.197.91.169:8000/play/a0gx/index.m3u8
+https://154.197.91.169:8000/play/a0gx/index.m3u8
 #EXTINF:-1 group-title="-",Al Emarat TV HD
-154.197.91.169:8000/play/a0ia/index.m3u8
+https://154.197.91.169:8000/play/a0ia/index.m3u8
 #EXTINF:-1 group-title="-",Al Jazeera Documentary HD
 154.197.91.169:8000/play/a0hg/index.m3u8
 #EXTINF:-1 group-title="-",Al Jazeera English HD
